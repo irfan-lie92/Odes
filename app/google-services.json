@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "709851088985",
+    "project_id": "jekyapp",
+    "storage_bucket": "jekyapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:709851088985:android:8ee876ebd57e732e764948",
+        "android_client_info": {
+          "package_name": "com.example.jeky"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD4FXQN4u5v2r50VpiRt8ypUjdNnJ7Yq4s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
