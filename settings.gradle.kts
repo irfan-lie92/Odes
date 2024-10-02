@@ -16,6 +16,6 @@ dependencyResolutionManagement {
     }
 }
 
-rootProject.name = "Jeky"
+rootProject.name = "Odes"
 include(":app")
 include(":core")
